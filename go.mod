@@ -1,6 +1,6 @@
 // This is a generated file. Do not edit directly.
 
-module xcming/client-go
+module github.com/xcming/client-go
 
 go 1.19
 
